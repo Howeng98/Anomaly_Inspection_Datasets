@@ -1,6 +1,8 @@
 # Anomaly_Inspection_Datasets
 A references and discriptions for anomaly detection , manufacturing inspection, defect detection datasets. Feel free to generate new issue or PR for provide additional datasets link and description.
 
+## Capsule Defect Detection
+https://github.com/TSjianjiao/Defect-Detection-with-tensorflow
 
 ## Casting
 https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product
