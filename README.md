@@ -31,3 +31,6 @@ https://www.kaggle.com/datasets/christianvorhemus/industrial-quality-control-of-
 ## Structural Defects Network (SDNET) 2018
 https://www.kaggle.com/datasets/aniruddhsharma/structural-defects-network-concrete-crack-images
 
+## Steel Defect Detection
+https://www.kaggle.com/c/severstal-steel-defect-detection/data?select=train_images
+
