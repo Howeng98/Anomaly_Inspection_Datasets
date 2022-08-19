@@ -42,3 +42,7 @@ https://github.com/jianzhang96/MSD
 
 ## Alibaba TianChi Datasets
 https://tianchi.aliyun.com/dataset?spm=5176.12282013.J_3941670930.15.5d2513depqCZxe
+
+## NEU Surface Defect Detection
+http://faculty.neu.edu.cn/songkechen/zh_CN/zdylm/263270/list/
+
