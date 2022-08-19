@@ -34,3 +34,11 @@ https://www.kaggle.com/datasets/aniruddhsharma/structural-defects-network-concre
 ## Steel Defect Detection
 https://www.kaggle.com/c/severstal-steel-defect-detection/data?select=train_images
 
+## PCB Defect Detection
+https://github.com/Ixiaohuihuihui/Tiny-Defect-Detection-for-PCB
+
+## Mobile Phone Screen Surface Defect Detetion
+https://github.com/jianzhang96/MSD
+
+## Alibaba TianChi Datasets
+https://tianchi.aliyun.com/dataset?spm=5176.12282013.J_3941670930.15.5d2513depqCZxe
